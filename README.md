@@ -1,2 +1,3 @@
 # Record News Ao Vivo
  Em construção ...
+ Veja Como está ficando <a href="https://thiagowilliamp.github.io/record-news/" target="blank">aqui</a>
